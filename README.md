@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham Wani
-- 👀 I’m interested in Mobile Apps, React Native, ReactJS
+- 👀 I’m interested in Mobile/Web Apps, React Native, ReactJS
 - 🌱 I’m currently learning Web3, NFTs and everything 😆
 - 💞️ I’m looking to collaborate on innovative and challenging mobile, web projects !
 - 📫 Please reach me at ssw10j@gmail.com
